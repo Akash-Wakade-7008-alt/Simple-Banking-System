@@ -20,7 +20,7 @@ public class Main
 
         System.out.println("Enter the initial balance");
         account.balance = sc.nextDouble();
-
+        System.out.printf("\n\n");
         int choice;
 
         do 
@@ -71,5 +71,4 @@ public class Main
         sc.close();
     }
 }
-
 
