@@ -132,8 +132,9 @@ Possible upgrades for this project:
 
 Computer Science Student | Java & Web Development
 
-GitHub:
-https://github.com/Akash-Wakade-7008-alt
+LinkedIn:
+https://www.linkedin.com/in/akash-wakade-08b8412b2
+
 
 ---
 
