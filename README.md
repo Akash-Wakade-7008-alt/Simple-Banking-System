@@ -1,5 +1,9 @@
 # 💳 Simple Banking System (Java)
 
+![Java](https://img.shields.io/badge/Language-Java-orange)
+![Project Type](https://img.shields.io/badge/Project-Console%20Application-blue)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
 A **console-based banking system** built using **Java** that simulates basic banking operations such as creating an account, depositing money, withdrawing money, and checking account details.
 
 This project was built to practice **core Java fundamentals and Object-Oriented Programming (OOP)** concepts.
@@ -20,12 +24,12 @@ This project was built to practice **core Java fundamentals and Object-Oriented 
 
 ## ✨ Features
 
-* Create a new bank account
-* Deposit money
-* Withdraw money
-* Check account balance
-* View account details
-* Menu-driven console interface
+- Create a new bank account
+- Deposit money
+- Withdraw money
+- Check account balance
+- View account details
+- Menu-driven console interface
 
 ---
 
@@ -33,21 +37,21 @@ This project was built to practice **core Java fundamentals and Object-Oriented 
 
 This project demonstrates several important Java concepts:
 
-* Classes and Objects
-* Methods and Parameters
-* Object-Oriented Programming (OOP)
-* User Input using `Scanner`
-* Conditional Statements (`if-else`)
-* `switch` Statements
-* `do-while` Loop
+- Classes and Objects
+- Methods and Parameters
+- Object-Oriented Programming (OOP)
+- User Input using `Scanner`
+- Conditional Statements (`if-else`)
+- `switch` Statements
+- `do-while` Loop
 
 ---
 
 ## 🛠 Tech Stack
 
-* **Language:** Java
-* **Interface:** Console / Terminal
-* **Concepts:** Object-Oriented Programming
+- **Language:** Java
+- **Interface:** Console / Terminal
+- **Concepts:** Object-Oriented Programming
 
 ---
 
@@ -71,20 +75,19 @@ SIMPLE-BANKING-SYSTEM
 
 ### **Main.java**
 
-* Entry point of the application
-* Handles user interaction
-* Displays the banking menu
-* Calls banking operations from the `BankAccount` class
+- Entry point of the application
+- Handles user interaction
+- Displays the banking menu
+- Calls banking operations from the `BankAccount` class
 
 ### **BankAccount.java**
 
-* Stores account information
-* Implements core banking operations:
-
-  * Deposit money
-  * Withdraw money
-  * Check balance
-  * Display account details
+- Stores account information
+- Implements core banking operations:
+  - Deposit money
+  - Withdraw money
+  - Check balance
+  - Display account details
 
 ### **assets/**
 
@@ -126,11 +129,11 @@ java Main
 
 Possible upgrades for this project:
 
-* Add **PIN-based authentication**
-* Support **multiple bank accounts**
-* Add **transaction history**
-* Store account data using **files or a database**
-* Build a **GUI version using Java Swing or JavaFX**
+- Add **PIN-based authentication**
+- Support **multiple bank accounts**
+- Add **transaction history**
+- Store account data using **files or a database**
+- Build a **GUI version using Java Swing or JavaFX**
 
 ---
 
