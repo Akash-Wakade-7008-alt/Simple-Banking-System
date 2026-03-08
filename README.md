@@ -12,6 +12,8 @@ This project was created to practice **core Java fundamentals and Object-Oriente
 
 ![Preview](assets/Preview-1.png)
 
+--
+
 ### Example Output
 
 ![Preview](assets/Preview-2.png)
