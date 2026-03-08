@@ -11,16 +11,16 @@ public class Main
         BankAccount account = new BankAccount();
 
         System.out.println("Create New Account");
-
+        System.out.printf("\n");
         System.out.println("Enter your name");
         account.accountHolderName = sc.nextLine();
-
+        System.out.printf("\n");
         System.out.println("Enter your Account Number");
         account.accountNumber = sc.nextInt();
-
+        System.out.printf("\n");
         System.out.println("Enter the initial balance");
         account.balance = sc.nextDouble();
-        System.out.printf("\n\n");
+        System.out.printf("\n");
         int choice;
 
         do 
