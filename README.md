@@ -1,12 +1,17 @@
+<div align="center">
+
 # 💳 Simple Banking System (Java)
 
 ![Java](https://img.shields.io/badge/Language-Java-orange)
 ![Project Type](https://img.shields.io/badge/Project-Console%20Application-blue)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
+</div>
+
 A **console-based banking system** built using **Java** that simulates basic banking operations such as creating an account, depositing money, withdrawing money, and checking account details.
 
 This project was built to practice **core Java fundamentals and Object-Oriented Programming (OOP)** concepts.
+
 
 ---
 
@@ -144,3 +149,6 @@ Computer Science Student | Java & Web Development
 
 🔗 LinkedIn
 https://www.linkedin.com/in/akash-wakade-08b8412b2
+
+
+
