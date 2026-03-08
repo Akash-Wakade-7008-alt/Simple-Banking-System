@@ -1,73 +1,88 @@
 # 💳 Simple Banking System (Java)
 
-A simple **console-based banking system** built using **Java**.
-This project simulates basic banking operations such as creating an account, depositing money, withdrawing money, and checking account details.
+A **console-based banking system** built using **Java** that simulates basic banking operations such as account creation, depositing money, withdrawing money, and checking account details.
 
-It was developed to practice **core Java fundamentals and Object-Oriented Programming concepts**.
+This project was created to practice **core Java fundamentals and Object-Oriented Programming (OOP)** concepts.
 
 ---
 
-## 📌 Features
+## 📸 Project Preview
+
+### Main Menu
+
+![Preview](assets/Preview-1.png)
+
+### Example Output
+
+![Preview](assets/Preview-2.png)
+
+---
+
+## ✨ Features
 
 * Create a new bank account
 * Deposit money
 * Withdraw money
 * Check account balance
 * View account details
-* Interactive console menu
+* Menu-driven console interface
 
 ---
 
 ## 🧠 Concepts Used
 
-This project demonstrates several important Java concepts:
+This project demonstrates important Java concepts such as:
 
 * Classes and Objects
 * Methods and Parameters
+* Object-Oriented Programming (OOP)
 * User Input using `Scanner`
 * Conditional Statements (`if-else`)
-* `switch` statements
-* `do-while` loop
-* Basic Object-Oriented Programming
+* `switch` Statements
+* `do-while` Loop
 
 ---
 
 ## 📂 Project Structure
 
 ```
-Simple-Banking-System
+SIMPLE-BANKING-SYSTEM
 │
+├── assets
+│   ├── Preview-1.png
+│   └── Preview-2.png
+│
+├── BankAccount.java
 ├── Main.java
-└── BankAccount.java
+└── README.md
 ```
+
+### File Overview
 
 **Main.java**
 
+* Entry point of the application
 * Handles user interaction
 * Displays the banking menu
-* Calls methods from the `BankAccount` class
+* Calls banking operations
 
 **BankAccount.java**
 
 * Stores account information
-* Implements banking operations like deposit, withdraw, and balance check
+* Handles banking operations such as:
+
+  * Deposit
+  * Withdrawal
+  * Balance check
+  * Display account details
+
+**assets/**
+
+* Contains preview images used in the README
 
 ---
 
-## ⚙️ How It Works
-
-1. The program starts by asking the user to create a bank account.
-2. The user enters:
-
-   * Name
-   * Account number
-   * Initial balance
-3. A menu is displayed with different banking operations.
-4. The program keeps running using a **do-while loop** until the user selects **Exit**.
-
----
-
-## ▶️ How to Run the Project
+## ⚙️ How to Run the Project
 
 ### 1️⃣ Compile the program
 
@@ -99,13 +114,13 @@ java Main
 
 ## 🚀 Future Improvements
 
-Possible upgrades for the project:
+Possible upgrades for this project:
 
-* Add **PIN-based login**
+* Add **PIN-based authentication**
 * Support **multiple bank accounts**
 * Add **transaction history**
-* Implement **data storage using files**
-* Build a **GUI using Java Swing or JavaFX**
+* Store account data using **files or a database**
+* Build a **GUI version using Java Swing or JavaFX**
 
 ---
 
@@ -113,7 +128,7 @@ Possible upgrades for the project:
 
 **Akash Wakade**
 
-Computer Science Student | Java & Web Development Enthusiast
+Computer Science Student | Java & Web Development
 
 GitHub:
 https://github.com/Akash-Wakade-7008-alt
