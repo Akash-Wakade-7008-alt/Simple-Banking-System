@@ -138,6 +138,3 @@ https://www.linkedin.com/in/akash-wakade-08b8412b2
 
 ---
 
-## 📜 License
-
-This project is open-source and available under the **MIT License**.
