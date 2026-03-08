@@ -1,8 +1,8 @@
 # 💳 Simple Banking System (Java)
 
-A **console-based banking system** built using **Java** that simulates basic banking operations such as account creation, depositing money, withdrawing money, and checking account details.
+A **console-based banking system** built using **Java** that simulates basic banking operations such as creating an account, depositing money, withdrawing money, and checking account details.
 
-This project was created to practice **core Java fundamentals and Object-Oriented Programming (OOP)** concepts.
+This project was built to practice **core Java fundamentals and Object-Oriented Programming (OOP)** concepts.
 
 ---
 
@@ -10,13 +10,11 @@ This project was created to practice **core Java fundamentals and Object-Oriente
 
 ### Main Menu
 
-![Preview](assets/Preview-1.png)
-
----
+![Main Menu](assets/Preview-1.png)
 
 ### Example Output
 
-![Preview](assets/Preview-2.png)
+![Example Output](assets/Preview-2.png)
 
 ---
 
@@ -33,7 +31,7 @@ This project was created to practice **core Java fundamentals and Object-Oriente
 
 ## 🧠 Concepts Used
 
-This project demonstrates important Java concepts such as:
+This project demonstrates several important Java concepts:
 
 * Classes and Objects
 * Methods and Parameters
@@ -42,6 +40,14 @@ This project demonstrates important Java concepts such as:
 * Conditional Statements (`if-else`)
 * `switch` Statements
 * `do-while` Loop
+
+---
+
+## 🛠 Tech Stack
+
+* **Language:** Java
+* **Interface:** Console / Terminal
+* **Concepts:** Object-Oriented Programming
 
 ---
 
@@ -59,28 +65,30 @@ SIMPLE-BANKING-SYSTEM
 └── README.md
 ```
 
-### File Overview
+---
 
-**Main.java**
+## 📄 File Overview
+
+### **Main.java**
 
 * Entry point of the application
 * Handles user interaction
 * Displays the banking menu
-* Calls banking operations
+* Calls banking operations from the `BankAccount` class
 
-**BankAccount.java**
+### **BankAccount.java**
 
 * Stores account information
-* Handles banking operations such as:
+* Implements core banking operations:
 
-  * Deposit
-  * Withdrawal
-  * Balance check
+  * Deposit money
+  * Withdraw money
+  * Check balance
   * Display account details
 
-**assets/**
+### **assets/**
 
-* Contains preview images used in the README
+Contains preview images used in the README.
 
 ---
 
@@ -129,12 +137,7 @@ Possible upgrades for this project:
 ## 👨‍💻 Author
 
 **Akash Wakade**
-
 Computer Science Student | Java & Web Development
 
-LinkedIn:
+🔗 LinkedIn
 https://www.linkedin.com/in/akash-wakade-08b8412b2
-
-
----
-
