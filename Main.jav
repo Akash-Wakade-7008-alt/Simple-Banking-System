@@ -13,7 +13,7 @@ public class Main
         System.out.println("Create New Account");
         System.out.printf("\n");
         System.out.println("Enter your name");
-        account.accountHolderName = sc.nextLine();
+        account.accountHolderName = sc.next();
         System.out.printf("\n");
         System.out.println("Enter your Account Number");
         account.accountNumber = sc.nextInt();
