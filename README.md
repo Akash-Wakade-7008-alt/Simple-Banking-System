@@ -147,8 +147,11 @@ Possible upgrades for this project:
 **Akash Wakade**
 Computer Science Student | Java & Web Development
 
-🔗 LinkedIn
-https://www.linkedin.com/in/akash-wakade-08b8412b2
+---
+
+⭐ **Read the Linkden Post:**  
+👉 https://www.linkedin.com/feed/update/urn:li:activity:7436766122026336256/
+
 
 
 
