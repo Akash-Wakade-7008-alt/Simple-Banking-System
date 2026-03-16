@@ -69,6 +69,9 @@ SIMPLE-BANKING-SYSTEM
 │   ├── Preview-1.png
 │   └── Preview-2.png
 │
+├── docs
+│   └── Documentation.md
+│
 ├── Main.java
 └── README.md
 ```
