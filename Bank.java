@@ -12,7 +12,7 @@ import java.util.Scanner;
  * 
  * The program uses a menu-driven approach to interact with the user.
  */
-public class Main
+public class Bank
 {
     /**
      * The entry point of the program.
@@ -97,15 +97,3 @@ public class Main
     }
 }
 
-
-/**
- * Represents a simple bank account.
- * 
- * This class stores account information such as:
- * - Account holder name
- * - Account number
- * - Current balance
- * 
- * It also provides methods to deposit money, withdraw money,
- * check balance, and display account details.
- */

@@ -1,4 +1,17 @@
-class BankAccount
+/**
+ * Represents a simple bank account.
+ * 
+ * This class stores account information such as:
+ * - Account holder name
+ * - Account number
+ * - Current balance
+ * 
+ * It also provides methods to deposit money, withdraw money,
+ * check balance, and display account details.
+ */
+
+
+public class BankAccount
 {
 
     /** Name of the account holder */
