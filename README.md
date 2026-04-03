@@ -102,6 +102,24 @@ Contains preview images used in the README.
 
 ---
 
+## ⚙️ Local Setup
+
+### Option 1: Clone the Repository
+
+```bash
+git clone https://github.com/Akash-Wakade-7008-alt/Simple-Banking-System.git
+```
+
+### 📦 Option 2: Download ZIP
+
+Download the project directly:  
+👉 https://github.com/Akash-Wakade-7008-alt/Simple-Banking-System/releases/download/Simple-Banking-System-v1.0/Simple-Banking-System.zip
+
+1. Download the ZIP file  
+2. Extract it  
+3. Open `Bank.java` in your browser  
+
+
 ## ⚙️ How to Run the Project
 
 ### 1️⃣ Compile the program
