@@ -119,6 +119,7 @@ Download the project directly:
 2. Extract it  
 3. Open `Bank.java` in your browser  
 
+---
 
 ## ⚙️ How to Run the Project
 
